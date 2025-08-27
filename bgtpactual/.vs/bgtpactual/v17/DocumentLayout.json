@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\services\\abstractions\\ifundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\services\\abstractions\\ifundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\models\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\models\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\models\\subscribedfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\models\\subscribedfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\dto\\request\\unsubcribefundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\dto\\request\\unsubcribefundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\dto\\request\\subcribefundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\dto\\request\\subcribefundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\services\\abstractions\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\services\\abstractions\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|c:\\users\\sebastiandavidcaraba\\documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F43FD79-C8E7-4569-8AC5-5FB210D522B3}|bgtpactual\\bgtpactual.csproj|solutionrelative:bgtpactual\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FundsController.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Controllers\\FundsController.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Controllers\\FundsController.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Controllers\\FundsController.cs",
+              "RelativeToolTip": "bgtpactual\\Controllers\\FundsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv0MAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:22:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscribedFund.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\SubscribedFund.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Models\\SubscribedFund.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\SubscribedFund.cs",
+              "RelativeToolTip": "bgtpactual\\Models\\SubscribedFund.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:56:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Client.cs",
+              "RelativeToolTip": "bgtpactual\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:51:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Transaction.cs",
+              "RelativeToolTip": "bgtpactual\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:44:02.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Program.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Program.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Program.cs",
+              "RelativeToolTip": "bgtpactual\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:06:19.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FundService.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\FundService.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Services\\FundService.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\FundService.cs",
+              "RelativeToolTip": "bgtpactual\\Services\\FundService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:11:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnsubcribeFundRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\DTO\\Request\\UnsubcribeFundRequest.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\DTO\\Request\\UnsubcribeFundRequest.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\DTO\\Request\\UnsubcribeFundRequest.cs",
+              "RelativeToolTip": "bgtpactual\\DTO\\Request\\UnsubcribeFundRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:34:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fund.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Fund.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Models\\Fund.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Models\\Fund.cs",
+              "RelativeToolTip": "bgtpactual\\Models\\Fund.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:02:56.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFundService.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\Abstractions\\IFundService.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Services\\Abstractions\\IFundService.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\Abstractions\\IFundService.cs",
+              "RelativeToolTip": "bgtpactual\\Services\\Abstractions\\IFundService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:27:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubcribeFundRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\DTO\\Request\\SubcribeFundRequest.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\DTO\\Request\\SubcribeFundRequest.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\DTO\\Request\\SubcribeFundRequest.cs",
+              "RelativeToolTip": "bgtpactual\\DTO\\Request\\SubcribeFundRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:25:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\Abstractions\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Services\\Abstractions\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\Abstractions\\ITransactionService.cs",
+              "RelativeToolTip": "bgtpactual\\Services\\Abstractions\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:43:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "bgtpactual\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\Services\\TransactionService.cs",
+              "RelativeToolTip": "bgtpactual\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:30:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\appsettings.json",
+              "RelativeDocumentMoniker": "bgtpactual\\appsettings.json",
+              "ToolTip": "C:\\Users\\SEBASTIANDAVIDCARABA\\Documents\\learning-projects\\prueba\\bgtpactual\\bgtpactual\\appsettings.json",
+              "RelativeToolTip": "bgtpactual\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T04:14:49.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

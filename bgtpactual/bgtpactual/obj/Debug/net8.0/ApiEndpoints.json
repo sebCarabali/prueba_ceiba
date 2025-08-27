@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "bgtpactual.Controllers.FundsController",
+    "Method": "GetClient",
+    "RelativePath": "Funds/{clientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bgtpactual.Controllers.FundsController",
+    "Method": "GetTransactionHistory",
+    "RelativePath": "Funds/{clientId}/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bgtpactual.Controllers.FundsController",
+    "Method": "GetFunds",
+    "RelativePath": "Funds/funds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bgtpactual.Controllers.FundsController",
+    "Method": "SubscribeToFund",
+    "RelativePath": "Funds/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "bgtpactual.DTO.Request.SubcribeFundRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bgtpactual.Controllers.FundsController",
+    "Method": "UnsubscribeFromFund",
+    "RelativePath": "Funds/unsubscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "bgtpactual.DTO.Request.UnsubcribeFundRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@bgtpactual_HostAddress = http://localhost:5216
+
+GET {{bgtpactual_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
