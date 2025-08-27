@@ -13,5 +13,6 @@ namespace bgtpactual.Models
         public decimal SubscriptionAmount { get; set; }
         [BsonElement("fecha")]
         public DateTime SubscriptionDate { get; set; }
+        public string ComunicationChannel { get; set; } = "Email"; // sms, email
     }
 }

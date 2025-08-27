@@ -12,7 +12,7 @@ namespace bgtpactual.Services.Abstractions
         /// <param name="userId">Identificador del usuario.</param>
         /// <param name="ammount">Monto a suscribir.</param>
         /// <returns>Una tarea que representa la operación asíncrona.</returns>
-        Task SubscribeToFundAsyc(string fundId, string userId, decimal ammount);
+        Task SubscribeToFundAsyc(string fundId, string userId, decimal ammount, string communicationChannel);
 
         /// <summary>
         /// Cancela la suscripción del usuario especificado al fondo indicado.

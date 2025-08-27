@@ -30,7 +30,7 @@ namespace bgtpactual.Services
             return await _fundCollection.Find(_ => true).ToListAsync();
         }
 
-        public async Task SubscribeToFundAsyc(string fundId, string userId, decimal ammount)
+        public async Task SubscribeToFundAsyc(string fundId, string userId, decimal ammount, string comunicationChannel)
         {
             var client = await _clientCollection.Find(c => c.Id == userId).FirstOrDefaultAsync();
 
@@ -63,7 +63,8 @@ namespace bgtpactual.Services
                 FundId = fund.Id,
                 FundName = fund.Name,
                 SubscriptionAmount = ammount,
-                SubscriptionDate = DateTime.UtcNow
+                SubscriptionDate = DateTime.UtcNow,
+                ComunicationChannel = comunicationChannel
             });
 
             client.Transactions ??= new List<Transaction>();

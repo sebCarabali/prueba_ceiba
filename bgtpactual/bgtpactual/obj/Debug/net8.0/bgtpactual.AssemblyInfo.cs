@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bgtpactual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7613a6528cbe095207acbf3a1dbdbe1bcb5c9f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("bgtpactual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bgtpactual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

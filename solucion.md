@@ -4,7 +4,7 @@
 
 Para la solución se usaran tecnologías como .Net Core para el backend y Angular para el frontend, para el almacenamiento de la información se usara MongoDB, para el desarrollo se usara Visual Studio Code y para el testing se usara Postman.
 
-El código se almacenará en el siguiente repositorio de github: [https://github.com/sebastiandavida/capstone-project](https://github.com/sebastiandavida/capstone-project).
+El código se almacenará en el siguiente repositorio de github: [https://github.com/sebCarabali/prueba_ceiba](https://github.com/sebCarabali/prueba_ceiba).
 
 Para el despliegue se usara AWS CloudFormation para desplegar el frontend y el backend.
 
@@ -41,3 +41,20 @@ Esta colección funciona como el **catálogo de productos**. Cada documento aqu�
 *   `nombre`: El nombre oficial del fondo.
 *   `montoMinimo`: El **costo mínimo de entrada** para unirse a este fondo.
 *   `categoria`: El **tipo de fondo** al que pertenece, como "FPV" o "FIC".
+
+## Despliegue en cloudformation
+
+El despliegue se encuentra en el siguiente repositorio de github: [https://github.com/sebCarabali/prueba_ceiba/despliegue.md](https://github.com/sebCarabali/prueba_ceiba/despliegue.md).
+---
+## Solución consulta
+
+```sql
+SELECT DISTINCT c.nombre, c.apellidos
+FROM Cliente c
+JOIN Inscripción i ON c.id = i.idCliente
+JOIN Producto p ON i.idProducto = p.id
+JOIN Disponibilidad d ON p.id = d.idProducto
+JOIN Visitan v ON c.id = v.idCliente AND d.idSucursal = v.idSucursal;
+```
+
+---

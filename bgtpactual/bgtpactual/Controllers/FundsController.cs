@@ -13,7 +13,7 @@ namespace bgtpactual.Controllers
         {
             try
             {
-                await fundService.SubscribeToFundAsyc(request.FundId, request.ClientId, request.Amount);
+                await fundService.SubscribeToFundAsyc(request.FundId, request.ClientId, request.Amount, request.ComunicationChannel);
                 return Ok(new { Message = "Suscripción exitosa" });
             }
             catch (Exception ex)

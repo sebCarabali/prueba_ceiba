@@ -140,6 +140,10 @@
           "amount": {
             "type": "number",
             "format": "double"
+          },
+          "comunicationChannel": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

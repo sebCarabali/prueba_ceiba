@@ -39,3 +39,4 @@ C:\Users\SEBASTIANDAVIDCARABA\Documents\learning-projects\prueba\bgtpactual\bgtp
 C:\Users\SEBASTIANDAVIDCARABA\Documents\learning-projects\prueba\bgtpactual\bgtpactual\obj\Debug\net8.0\bgtpactual.pdb
 C:\Users\SEBASTIANDAVIDCARABA\Documents\learning-projects\prueba\bgtpactual\bgtpactual\obj\Debug\net8.0\bgtpactual.genruntimeconfig.cache
 C:\Users\SEBASTIANDAVIDCARABA\Documents\learning-projects\prueba\bgtpactual\bgtpactual\obj\Debug\net8.0\ref\bgtpactual.dll
+C:\Users\SEBASTIANDAVIDCARABA\Documents\learning-projects\prueba\bgtpactual\bgtpactual\obj\Debug\net8.0\bgtpactual.sourcelink.json
