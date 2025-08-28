@@ -44,7 +44,7 @@ Esta colección funciona como el **catálogo de productos**. Cada documento aqu�
 
 ## Despliegue en cloudformation
 
-El despliegue se encuentra en el siguiente repositorio de github: [https://github.com/sebCarabali/prueba_ceiba/despliegue.md](https://github.com/sebCarabali/prueba_ceiba/despliegue.md).
+El despliegue se encuentra en el siguiente repositorio de github: [https://github.com/sebCarabali/prueba_ceiba/despliegue.md](https://github.com/sebCarabali/prueba_ceiba/blob/main/despliegue.md).
 ---
 ## Solución consulta
 
